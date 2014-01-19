@@ -1,0 +1,82 @@
+/* Those are just some fancy fonts, 
+ * I wouldn't dare use those for a real projet 
+ * as it would slow down the page load*/
+
+@font-face {
+	font-family: 'Aller';
+	src: url('Aller.eot?') format('eot'), 
+	     url('Aller.woff') format('woff'), 
+	     url('Aller.ttf')  format('truetype'),
+	     url('Aller.svg#Aller') format('svg');
+}
+
+@font-face {
+	font-family: 'AnonymousProMinus';
+	src: url('AnonymousProMinus.eot?') format('eot'), 
+	     url('AnonymousProMinus.woff') format('woff'), 
+	     url('AnonymousProMinus.ttf')  format('truetype'),
+	     url('AnonymousProMinus.svg#AnonymousProMinus') format('svg');
+}
+
+@font-face {
+	font-family: 'EnglishTowne-Medium';
+	src: url('EnglishTowne-Medium.eot?') format('eot'), 
+	     url('EnglishTowne-Medium.woff') format('woff'), 
+	     url('EnglishTowne-Medium.ttf')  format('truetype'),
+	     url('EnglishTowne-Medium.svg#EnglishTowne-Medium') format('svg');
+}
+
+@font-face {
+	font-family: 'ReservoirGrunge';
+	src: url('ReservoirGrunge.eot?') format('eot'), 
+	     url('ReservoirGrunge.woff') format('woff'), 
+	     url('ReservoirGrunge.ttf')  format('truetype'),
+	     url('ReservoirGrunge.svg#ReservoirGrunge') format('svg');
+}
+
+@font-face {
+	font-family: 'Akashi';
+	src: url('Akashi.eot?') format('eot'), 
+	     url('Akashi.woff') format('woff'), 
+	     url('Akashi.ttf')  format('truetype'),
+	     url('Akashi.svg#Akashi') format('svg');
+}
+
+@font-face {
+	font-family: 'Dimitri';
+	src: url('Dimitri.eot?') format('eot'), 
+	     url('Dimitri.woff') format('woff'), 
+	     url('Dimitri.ttf')  format('truetype'),
+	     url('Dimitri.svg#Dimitri') format('svg');
+}
+
+@font-face {
+	font-family: 'EaDesigner-Bold';
+	src: url('EaDesigner-Bold.eot?') format('eot'), 
+	     url('EaDesigner-Bold.woff') format('woff'), 
+	     url('EaDesigner-Bold.ttf')  format('truetype'),
+	     url('EaDesigner-Bold.svg#EaDesigner-Bold') format('svg');
+}
+
+@font-face {
+	font-family: 'EaDesigner';
+	src: url('EaDesigner.eot?') format('eot'), 
+	     url('EaDesigner.woff') format('woff'), 
+	     url('EaDesigner.ttf')  format('truetype'),
+	     url('EaDesigner.svg#EaDesigner') format('svg');
+}
+
+@font-face {
+	font-family: 'TimesNewRomanPSMT';
+	src: url('TimesNewRomanPSMT.eot?') format('eot'), 
+	     url('TimesNewRomanPSMT.woff') format('woff'), 
+	     url('TimesNewRomanPSMT.ttf')  format('truetype'),
+	     url('TimesNewRomanPSMT.svg#TimesNewRomanPSMT') format('svg');
+}
+
+@font-face{
+	font-family:"Deja Vu Sans";
+	src:url("DejaVuSans.ttf") format("truetype");
+}
+
+
